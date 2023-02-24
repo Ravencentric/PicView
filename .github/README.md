@@ -38,7 +38,7 @@ Powershell $> winget install picview
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bf0fd0f740f9486ba306bdec7fe8bde7)](https://www.codacy.com/manual/ruben_8/PicView?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ruben2776/PicView&amp;utm_campaign=Badge_Grade)
 
-Pull requests are welcome. Check current issues and asign yourself or create your own issue. 
+Pull requests are welcome. Check current issues and assign yourself or create your own issue. 
 
 Improvements to the current code or bug fixes are also welcome!
 
